@@ -1,21 +1,60 @@
-# Hi 👋, I'm Samir
+<h1 align="center">Hi 👋, I'm Samir Kapadwanji</h1>
+<h3 align="center">🚀 Laravel / PHP Developer</h3>
 
-### Laravel/php Developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/samir2602&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/samir2602" /> </p>
-
-- 🌱 I'm currently learning **Laravel**
-
-- 📫 How to reach me **https://www.linkedin.com/in/samir-kapadwanji-077434216/**
-
-- 👨‍💻 All of my projects are available at **[https://www.linkedin.com/in/samir-kapadwanji-077434216/](https://www.linkedin.com/in/samir-kapadwanji-077434216/)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/https://github.com/samir2602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/samir2602" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samir-kapadwanji-077434216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samir-kapadwanji-077434216/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samir2602&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a></p>
+---
 
+<p align="center">
+  💻 Backend Developer focused on Laravel <br/>
+  ⚡ Building scalable web applications & clean APIs
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,jquery,bootstrap,git,github,composer,wordpress" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samir2602&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir2602&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+<p align="center">
+  ⚡ Advanced Laravel <br/>
+  🔗 REST API Development <br/>
+  🚀 Performance Optimization
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/samir2602" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/samir-kapadwanji-077434216/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐️ <em>Clean Code • Scalable Systems • Continuous Growth</em>
+</p>
